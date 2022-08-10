@@ -6,4 +6,4 @@
 ```bash
 
 ### Support Us
-YouTube Channel Ripunk https://www.youtube.com/c/Ripunk
+YouTube Channel Ripunk www.youtube.com/c/Ripunk
