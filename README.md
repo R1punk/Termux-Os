@@ -1,11 +1,3 @@
-### Support Us
-Facebook Pages [@termuxhackers.id](https://fb.me/termuxhackers.id)<br>
-Instagram [@termuxhackers.id](https://instagram.com/termuxhackers.id)
-
-### Credit's
-Copyright © 2021 by [Termux Hackers](https://github.com/termuxhackers-id)
-
-
 ### Termux-Os
 - apt-get install git
 - git clone https://github.com/R1punk/Termux-Os.git
@@ -14,4 +6,7 @@ Copyright © 2021 by [Termux Hackers](https://github.com/termuxhackers-id)
 ```bash
 
 ### Support Us
-YouTube Channel Ripunk www.youtube.com/c/Ripunk
+YouTube Channel [youtube.com/c/Ripunk](www.youtube.com/c/Ripunk)
+
+### Credit's
+Copyright © 2022 by [Ripunk](https://github.com/R1punk)
